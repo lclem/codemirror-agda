@@ -15,6 +15,8 @@ const createHint = table => (editor, _options) => {
   return { list: list, from: from, to: to };
 };
 
+console.info("agda-input: registering agda-input hint helper")
+
 CodeMirror.registerGlobalHelper(
   "hint",
   "agda-input",

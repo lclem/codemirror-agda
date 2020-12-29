@@ -373,6 +373,8 @@ export const translations = toTable([
   ["Gm", "μ"], ["GM", "Μ"],
   ["Gn", "ν"], ["GN", "Ν"],
   ["pi", "π"], ["Pi", "Π"],
+  ["varphi", "φ"], ["Phi", "Φ"],
+  ["phi", "ϕ"], ["Varphi", "Φ"],
   ["Gx", "ξ"], ["GX", "Ξ"],
   ["Gr", "ρ"], ["GR", "Ρ"],
   ["Gs", "σ"], ["GS", "Σ"],

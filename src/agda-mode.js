@@ -1,4 +1,15 @@
 import CodeMirror from "codemirror";
+import "codemirror/addon/search/searchcursor";
+
+import "codemirror/addon/dialog/dialog.css";
+import "codemirror/addon/dialog/dialog.js";
+import "codemirror/addon/display/panel.js";
+import "codemirror/addon/search/search.js";
+import "codemirror/addon/search/jump-to-line.js";
+
+import "codemirror/addon/hint/show-hint.js"
+import "codemirror/addon/selection/mark-selection";
+
 // CodeMirror, copyright (c) by Marijn Haverbeke and others
 // Distributed under an MIT license: http://codemirror.net/LICENSE
 
