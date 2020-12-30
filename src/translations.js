@@ -404,7 +404,7 @@ export const translations = toTable([
   ["pi", "π"], ["Pi", "Π"],
   ["phi", "ϕ"], ["Phi", "Φ"],
   ["varphi", "φ"], ["Varphi", "Φ"],
-  ["xi", "χ"],
+  ["chi", "χ"],
   ["psi", "ψ"], ["Psi", "Ψ"],
   ["omega", "ω"], ["Omega", "Ω"],
 
